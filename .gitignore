@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+.venv/
+pothole_dataset_v8/
+*.zip
+*.mp4
