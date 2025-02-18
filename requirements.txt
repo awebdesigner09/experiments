@@ -1,0 +1,9 @@
+ultralytics
+wget
+clearml
+pytorch
+torchvision
+torchaudio
+tensorflow
+pandas
+yolosplitter

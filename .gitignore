@@ -175,3 +175,10 @@ cython_debug/
 pothole_dataset_v8/
 *.zip
 *.mp4
+runs/
+sam2/
+content/
+data/
+data_crack/
+data_dir/
+TTrack-training-data-1-feature/

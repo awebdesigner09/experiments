@@ -1,0 +1,7 @@
+path: D:/work/experiments/YOLO-v11-TTrack-1-Feature/data_crack
+train: images/train
+val: images/val
+test: images/test
+
+names: 
+    0: Squats
